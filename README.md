@@ -1,1 +1,1 @@
-# mern-ecommerce-2024
+# ecommerce
